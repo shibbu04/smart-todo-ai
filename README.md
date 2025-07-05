@@ -3,7 +3,7 @@
 A comprehensive full-stack task management application with AI-powered features, built with Django REST Framework backend and React frontend.
 
 ## Live Link
-[View Live Demo](https://smart-todo-ai.vercel.app/) - Experience the full application with AI-powered features
+[View Live Demo](https://smart-todo-ai-one.vercel.app/) - Experience the full application with AI-powered features
 
 > **Note:** Demo access uses shared API limits. For full functionality, clone and deploy with your own API keys.
 
